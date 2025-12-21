@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Page-1" id="i9TSq2pHbRZSESTzZgjj">
-    <mxGraphModel dx="1011" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="WOfnBWQK6XxvxL3WayCf-42" parent="WOfnBWQK6XxvxL3WayCf-37" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="10" width="10" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-109" parent="WOfnBWQK6XxvxL3WayCf-37" style="rounded=0;whiteSpace=wrap;html=1;" value="医疗间" vertex="1">
+          <mxGeometry height="50" width="50" x="80" y="80" as="geometry" />
         </mxCell>
         <mxCell id="WOfnBWQK6XxvxL3WayCf-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="冷库" vertex="1">
           <mxGeometry height="130" width="130" x="200" y="480" as="geometry" />
@@ -76,9 +79,6 @@
         <mxCell id="WOfnBWQK6XxvxL3WayCf-33" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="10" width="10" x="260" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="WOfnBWQK6XxvxL3WayCf-35" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="10" width="10" x="200" y="670" as="geometry" />
-        </mxCell>
         <mxCell id="WOfnBWQK6XxvxL3WayCf-36" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="130" width="130" x="330" y="610" as="geometry" />
         </mxCell>
@@ -115,9 +115,6 @@
         <mxCell id="WOfnBWQK6XxvxL3WayCf-49" parent="WOfnBWQK6XxvxL3WayCf-44" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="10" width="10" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="WOfnBWQK6XxvxL3WayCf-109" parent="WOfnBWQK6XxvxL3WayCf-44" style="rounded=0;whiteSpace=wrap;html=1;" value="医疗间" vertex="1">
-          <mxGeometry height="50" width="50" x="80" y="80" as="geometry" />
-        </mxCell>
         <mxCell id="WOfnBWQK6XxvxL3WayCf-74" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="130" width="130" x="460" y="610" as="geometry" />
         </mxCell>
@@ -151,7 +148,7 @@
         <mxCell id="WOfnBWQK6XxvxL3WayCf-50" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="130" width="130" x="460" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="WOfnBWQK6XxvxL3WayCf-51" parent="WOfnBWQK6XxvxL3WayCf-50" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;圣地&lt;/div&gt;研究室" vertex="1">
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-51" parent="WOfnBWQK6XxvxL3WayCf-50" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;研究室&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="130" as="geometry" />
         </mxCell>
         <mxCell id="WOfnBWQK6XxvxL3WayCf-52" parent="WOfnBWQK6XxvxL3WayCf-50" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
@@ -165,6 +162,108 @@
         </mxCell>
         <mxCell id="WOfnBWQK6XxvxL3WayCf-55" parent="WOfnBWQK6XxvxL3WayCf-50" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="10" width="10" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-136" parent="WOfnBWQK6XxvxL3WayCf-50" style="rounded=0;whiteSpace=wrap;html=1;" value="武器库" vertex="1">
+          <mxGeometry height="50" width="50" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-111" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="130" width="130" x="200" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-112" parent="WOfnBWQK6XxvxL3WayCf-111" style="whiteSpace=wrap;html=1;aspect=fixed;" value="圣地" vertex="1">
+          <mxGeometry height="130" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-113" parent="WOfnBWQK6XxvxL3WayCf-111" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="120" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-114" parent="WOfnBWQK6XxvxL3WayCf-111" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="60" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-115" parent="WOfnBWQK6XxvxL3WayCf-111" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-116" parent="WOfnBWQK6XxvxL3WayCf-111" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-117" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="田" vertex="1">
+          <mxGeometry height="120" width="390" x="200" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-118" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="牧场" vertex="1">
+          <mxGeometry height="520" width="90" x="590" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-119" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="山岩" vertex="1">
+          <mxGeometry height="760" width="90" x="110" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-120" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="130" width="130" x="460" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-121" parent="WOfnBWQK6XxvxL3WayCf-120" style="whiteSpace=wrap;html=1;aspect=fixed;" value="备用田" vertex="1">
+          <mxGeometry height="130" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-122" parent="WOfnBWQK6XxvxL3WayCf-120" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="120" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-123" parent="WOfnBWQK6XxvxL3WayCf-120" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="60" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-124" parent="WOfnBWQK6XxvxL3WayCf-120" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-125" parent="WOfnBWQK6XxvxL3WayCf-120" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-126" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="130" width="130" x="330" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-127" parent="WOfnBWQK6XxvxL3WayCf-126" style="whiteSpace=wrap;html=1;aspect=fixed;" value="备用田" vertex="1">
+          <mxGeometry height="130" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-128" parent="WOfnBWQK6XxvxL3WayCf-126" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="120" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-129" parent="WOfnBWQK6XxvxL3WayCf-126" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="60" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-130" parent="WOfnBWQK6XxvxL3WayCf-126" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-131" parent="WOfnBWQK6XxvxL3WayCf-126" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-133" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="山岩" vertex="1">
+          <mxGeometry height="90" width="480" x="110" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-134" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="阵地" vertex="1">
+          <mxGeometry height="520" width="90" x="680" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-135" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="阵地" vertex="1">
+          <mxGeometry height="120" width="390" x="200" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-219" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="冷库" vertex="1">
+          <mxGeometry height="80" width="80" x="1040" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-220" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="谒见厅" vertex="1">
+          <mxGeometry height="80" width="80" x="960" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-221" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="卧室*4" vertex="1">
+          <mxGeometry height="80" width="80" x="960" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-222" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="发电" vertex="1">
+          <mxGeometry height="80" width="80" x="1040" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-223" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="1040" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-224" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="卧室*6" vertex="1">
+          <mxGeometry height="80" width="80" x="960" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-225" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="研究室" vertex="1">
+          <mxGeometry height="80" width="80" x="880" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-226" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="工作间" vertex="1">
+          <mxGeometry height="80" width="80" x="880" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WOfnBWQK6XxvxL3WayCf-227" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="卧室*通铺" vertex="1">
+          <mxGeometry height="80" width="80" x="880" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
