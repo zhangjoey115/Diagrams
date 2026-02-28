@@ -4,26 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="70" width="600" x="-60" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="70" width="600" x="-60" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="70" width="600" x="-60" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="EB Planner" vertex="1">
+          <mxGeometry height="60" width="160" x="60" y="250" as="geometry" />
+        </mxCell>
         <mxCell id="35bpJm1XRDrtidHEKCKp-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="290" width="160" x="60" y="250" as="geometry" />
+          <mxGeometry height="190" width="160" x="60" y="350" as="geometry" />
         </mxCell>
         <mxCell id="35bpJm1XRDrtidHEKCKp-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="290" width="160" x="240" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="35bpJm1XRDrtidHEKCKp-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="380" width="160" x="440" y="220" as="geometry" />
-        </mxCell>
-        <mxCell id="35bpJm1XRDrtidHEKCKp-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="StateMachine" vertex="1">
-          <mxGeometry height="40" width="120" x="600" y="840" as="geometry" />
+        <mxCell id="35bpJm1XRDrtidHEKCKp-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="EB SM" vertex="1">
+          <mxGeometry height="40" width="50" x="90" y="855" as="geometry" />
         </mxCell>
         <mxCell id="35bpJm1XRDrtidHEKCKp-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CtrlErrCompensation" vertex="1">
-          <mxGeometry height="40" width="120" x="160" y="840" as="geometry" />
-        </mxCell>
-        <mxCell id="35bpJm1XRDrtidHEKCKp-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CollisionCheck" vertex="1">
-          <mxGeometry height="40" width="120" x="320" y="840" as="geometry" />
-        </mxCell>
-        <mxCell id="35bpJm1XRDrtidHEKCKp-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AgentReaction" vertex="1">
-          <mxGeometry height="40" width="120" x="460" y="430" as="geometry" />
+          <mxGeometry height="40" width="120" x="90" y="655" as="geometry" />
         </mxCell>
         <mxCell id="35bpJm1XRDrtidHEKCKp-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ES-Selection" vertex="1">
           <mxGeometry height="40" width="120" x="260" y="480" as="geometry" />
@@ -34,44 +37,131 @@
         <mxCell id="35bpJm1XRDrtidHEKCKp-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ES-Reasoning" vertex="1">
           <mxGeometry height="40" width="120" x="260" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="35bpJm1XRDrtidHEKCKp-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AgentPrediction" vertex="1">
-          <mxGeometry height="40" width="120" x="460" y="290" as="geometry" />
-        </mxCell>
         <mxCell id="35bpJm1XRDrtidHEKCKp-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LaneGeometry" vertex="1">
           <mxGeometry height="40" width="120" x="260" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="35bpJm1XRDrtidHEKCKp-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Routing" vertex="1">
-          <mxGeometry height="40" width="120" x="240" y="160" as="geometry" />
-        </mxCell>
-        <mxCell id="35bpJm1XRDrtidHEKCKp-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Prediction" vertex="1">
-          <mxGeometry height="40" width="120" x="460" y="160" as="geometry" />
-        </mxCell>
-        <mxCell id="35bpJm1XRDrtidHEKCKp-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ScenarioUnderstand" vertex="1">
-          <mxGeometry height="40" width="120" x="460" y="360" as="geometry" />
-        </mxCell>
-        <mxCell id="35bpJm1XRDrtidHEKCKp-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="EB&lt;div&gt;Trajectory&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="-80" y="360" as="geometry" />
-        </mxCell>
-        <mxCell id="35bpJm1XRDrtidHEKCKp-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="EBS&lt;div&gt;Trajectory&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="80" y="360" as="geometry" />
+        <mxCell id="35bpJm1XRDrtidHEKCKp-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="EBS&lt;div&gt;Search&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="80" y="420" as="geometry" />
         </mxCell>
         <mxCell id="35bpJm1XRDrtidHEKCKp-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vehicle Adaption" vertex="1">
-          <mxGeometry height="40" width="600" x="-240" y="560" as="geometry" />
-        </mxCell>
-        <mxCell id="35bpJm1XRDrtidHEKCKp-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ETP&lt;div&gt;Trajectory&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="-240" y="360" as="geometry" />
-        </mxCell>
-        <mxCell id="35bpJm1XRDrtidHEKCKp-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="EH Arbitration" vertex="1">
-          <mxGeometry height="40" width="320" x="200" y="720" as="geometry" />
-        </mxCell>
-        <mxCell id="35bpJm1XRDrtidHEKCKp-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AgentReasoning" vertex="1">
-          <mxGeometry height="30" width="60" x="490" y="220" as="geometry" />
+          <mxGeometry height="40" width="520" x="-120" y="560" as="geometry" />
         </mxCell>
         <mxCell id="35bpJm1XRDrtidHEKCKp-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ES Planner" vertex="1">
           <mxGeometry height="30" width="80" x="280" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="35bpJm1XRDrtidHEKCKp-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ES Planner" vertex="1">
-          <mxGeometry height="30" width="80" x="100" y="250" as="geometry" />
+        <mxCell id="35bpJm1XRDrtidHEKCKp-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EBS Planner" vertex="1">
+          <mxGeometry height="30" width="80" x="100" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AES Feature" vertex="1">
+          <mxGeometry height="40" width="120" x="80" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EH Arbitrition" vertex="1">
+          <mxGeometry height="30" width="60" x="-50" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Longi Lat Intervention Selection" vertex="1">
+          <mxGeometry height="40" width="120" x="370" y="755" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-6" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="规控兜底介绍" vertex="1">
+          <mxGeometry height="60" width="120" x="-760" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-7" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="近期工作介绍" vertex="1">
+          <mxGeometry height="60" width="120" x="-760" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-8" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="未来主要迭代方向" vertex="1">
+          <mxGeometry height="60" width="120" x="-760" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. AES&lt;div&gt;2. Gen4 EB上线 &amp;amp; FP优化&lt;/div&gt;&lt;div&gt;3. EB ES Selection&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="-640" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. ES升级：&lt;div&gt;AgentPrediction，ES Plan，Scenario，&lt;/div&gt;&lt;div&gt;2. 主要模块结构化重构 - 贴近Planner&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="280" x="-630" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-11" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="自我介绍" vertex="1">
+          <mxGeometry height="60" width="120" x="-760" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-12" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="350" width="160" x="440" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="35bpJm1XRDrtidHEKCKp-18" parent="QfW80GFZ7YY4Z8h6U9Sa-12" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="350" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="35bpJm1XRDrtidHEKCKp-4" parent="QfW80GFZ7YY4Z8h6U9Sa-12" style="rounded=0;whiteSpace=wrap;html=1;" value="AgentReaction" vertex="1">
+          <mxGeometry height="36.84210526315789" width="120" x="20" y="170.00105263157894" as="geometry" />
+        </mxCell>
+        <mxCell id="35bpJm1XRDrtidHEKCKp-8" parent="QfW80GFZ7YY4Z8h6U9Sa-12" style="rounded=0;whiteSpace=wrap;html=1;" value="AgentPrediction" vertex="1">
+          <mxGeometry height="36.84210526315789" width="120" x="20" y="110.00368421052633" as="geometry" />
+        </mxCell>
+        <mxCell id="35bpJm1XRDrtidHEKCKp-12" parent="QfW80GFZ7YY4Z8h6U9Sa-12" style="rounded=0;whiteSpace=wrap;html=1;" value="ScenarioUnderstand" vertex="1">
+          <mxGeometry height="36.84210526315789" width="120" x="20" y="49.99736842105263" as="geometry" />
+        </mxCell>
+        <mxCell id="35bpJm1XRDrtidHEKCKp-19" parent="QfW80GFZ7YY4Z8h6U9Sa-12" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AgentReasoner" vertex="1">
+          <mxGeometry height="27.63157894736842" width="60" x="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-1" parent="QfW80GFZ7YY4Z8h6U9Sa-12" style="rounded=0;whiteSpace=wrap;html=1;" value="BufferManagement" vertex="1">
+          <mxGeometry height="36.84210526315789" width="120" x="20" y="230.00473684210527" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-42" parent="QfW80GFZ7YY4Z8h6U9Sa-12" style="rounded=0;whiteSpace=wrap;html=1;" value="AgentHandleDecision" vertex="1">
+          <mxGeometry height="36.84210526315789" width="120" x="20" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-16" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="190" width="160" x="-120" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-14" parent="QfW80GFZ7YY4Z8h6U9Sa-16" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="190" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="35bpJm1XRDrtidHEKCKp-16" parent="QfW80GFZ7YY4Z8h6U9Sa-16" style="rounded=0;whiteSpace=wrap;html=1;" value="ETP&lt;div&gt;Search&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="20" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-15" parent="QfW80GFZ7YY4Z8h6U9Sa-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ETP Planner" vertex="1">
+          <mxGeometry height="57" width="80" x="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Collision&lt;div&gt;Check&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-50" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LiabilityJudge" vertex="1">
+          <mxGeometry height="40" width="120" x="230" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="RiskFilter" vertex="1">
+          <mxGeometry height="40" width="120" x="370" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="State&lt;div&gt;Management&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-50" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="EBS SM" vertex="1">
+          <mxGeometry height="40" width="50" x="200" y="855" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ES SM" vertex="1">
+          <mxGeometry height="40" width="50" x="310" y="855" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-28" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=2.8;endSize=4.8;endWidth=5.68;startWidth=5.68;startSize=4.8;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="-640" y="630" />
+            </Array>
+            <mxPoint x="-680" y="630" as="sourcePoint" />
+            <mxPoint x="-620" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="HB Planner" vertex="1">
+          <mxGeometry height="60" width="160" x="-120" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TailRiskDecision" vertex="1">
+          <mxGeometry height="40" width="120" x="90" y="755" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FrontRiskDecision" vertex="1">
+          <mxGeometry height="40" width="120" x="230" y="755" as="geometry" />
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-33" edge="1" parent="1" source="35bpJm1XRDrtidHEKCKp-1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QfW80GFZ7YY4Z8h6U9Sa-24" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="920" as="sourcePoint" />
+            <mxPoint x="200" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QfW80GFZ7YY4Z8h6U9Sa-34" edge="1" parent="1" source="QfW80GFZ7YY4Z8h6U9Sa-24" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QfW80GFZ7YY4Z8h6U9Sa-25" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="910" as="sourcePoint" />
+            <mxPoint x="310" y="860" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
